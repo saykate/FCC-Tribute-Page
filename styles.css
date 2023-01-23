@@ -1,0 +1,20 @@
+.image {
+    width: 350px;
+    max-width: 100%;
+    height: auto;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  .bold {font-weight: 800;}
+  body {background-color: rgb(100 100 20);
+  color: tan;
+  padding: 40px; font-family: Comic sans, san serif; text-align: center;}
+  h1 {font-size: 40; margin: 0}
+  p {font-size: 20; margin: 20}
+  .img-caption {font-size: .7em;}
+  ul { list-style-position: inside;
+    text-align: center;
+  }
+  a {color: white;}
+  
